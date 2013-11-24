@@ -114,6 +114,6 @@ h1 {
     -webkit-animation:fade 3000ms infinite;
 }
 
-.geo {
-    font-size: 3em;
+.geo1, .geo2 {
+    font-size: 2em;
 }
